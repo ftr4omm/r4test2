@@ -4,7 +4,7 @@ import time
 def main():
     i = 0
     while True:
-        print('second try: {}'.format(i))
+        print('third try: {}'.format(i))
         i += 1
         time.sleep(1)
 
